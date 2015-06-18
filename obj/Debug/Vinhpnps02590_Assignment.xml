@@ -1,0 +1,92 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Vinhpnps02590_Assignment
+</name>
+</assembly>
+<members>
+<member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources._222">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.add">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.add1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.bboy_thesis_fan_art_lil_green_man_designs_by_swapnilextkumar_d5qq54j">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.bboy_thesis_fan_art_lil_green_man_designs_by_swapnilextkumar_d5qq54j1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.document_delete">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.edit_document_actions_notes_add_cabinet_delete_musician">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.eeqwe">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.logo_fpt">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.neon_lamp_dance_hip_hop_dancin_1280x960_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.neon_lamp_dance_hip_hop_dancin_1280x960_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.quan_ly_thong_tin_khach_hang">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.ssss">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.tải_xuống">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.tải_xuống1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Vinhpnps02590_Assignment.My.Resources.Resources.tải_xuống2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Vinhpnps02590_Assignment.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
